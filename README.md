@@ -52,7 +52,7 @@ To deliver an interactive visual journey that:
 ---
 
 ## 6. Screenshots / Demos
-![Dashboard Preview]([MS_Dhoni_International_Dashboard.png.png](https://github.com/Ma-varshney/MS_Dhoni_International_Dashboard/blob/main/MS_Dhoni_International_Dashboard.png.png)
+![Dashboard Preview](https://github.com/Ma-varshney/MS_Dhoni_International_Dashboard/blob/main/MS_Dhoni_International_Dashboard.png.png)
 
 ---
 *Developed by [Aapka Naam Yahan Likhein]*
